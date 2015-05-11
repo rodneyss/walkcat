@@ -11,7 +11,7 @@ var danceCat;         //set interval
 var smoker;           //set interval
 var directionR = true;
 var oldImg = cat1.src;
-var newImg = "http://vignette2.wikia.nocookie.net/uncyclopedia/images/2/21/Dance_cat.gif";
+var newImg = "https://vignette2.wikia.nocookie.net/uncyclopedia/images/2/21/Dance_cat.gif";
 var count = 0;
 var smokeCount = 0;
 var ballMove = 0;
